@@ -1,0 +1,3 @@
+interface UserInput {
+    int read();
+}

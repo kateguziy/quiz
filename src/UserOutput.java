@@ -1,0 +1,3 @@
+interface UserOutput {
+    int print();
+}
